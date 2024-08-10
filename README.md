@@ -1,6 +1,7 @@
-## Hi there 👋
+
 <table>
   <tr>
+    ## Hi there 👋
     <td style="vertical-align: top;" width="70%">
       Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.
     </td>
