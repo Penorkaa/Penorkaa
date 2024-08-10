@@ -1,11 +1,11 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td style="vertical-align: top;" width="40%">
+    <td style="vertical-align: top;" width="60%">
       Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.
     </td>
     <td style="padding-left: 10px;">
-      <img src="SARAA.jpg" width="150px" />
+      <img src="SARAA.jpg" width="35%" />
     </td>
   </tr>
 </table>
