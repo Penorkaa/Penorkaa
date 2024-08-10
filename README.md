@@ -4,7 +4,7 @@
     <td style="vertical-align: top;" width="70%">
       Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.
     </td>
-    <td style="padding-left: 10px;"width="25%>
+    <td style="padding-left: 10px;" width="25%>
       <img src="SARAA.jpg" width="100%" />
     </td>
   </tr>
