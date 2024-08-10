@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: left;"> 
   <div style=" margin-right: 5px;">
     Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.</div>
- <img src="SARAA.jpg" width=30% position=right>
+ <img src="SARAA.jpg" width=20%>
  </div> 
 <!--
 **Penorkaa/Penorkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
