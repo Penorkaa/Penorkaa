@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align= left> 
-  <span style="vertical-align: middle; margin-left: 10px;">Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.</span>
+  <span style="vertical-align: middle; margin-right: 5px;">Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.</span>
  <img src="SARAA.jpg" width=30% position=right>
  </p> 
 <!--
