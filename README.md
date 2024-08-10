@@ -4,7 +4,8 @@
       <h1> 👋 Hi there, I am Sarra Ayayda  </h1>
       Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.
       <h2> 🚀 About me </h2>
-     <h4 color="violet"> Programming Languages : </h4>
+     <h4 color="violet"> Programming Languages and Technologies : </h4>
+     <img src="" width="30px"/> 
     </td>
     <td style="padding-left: 10px;" width="35%" >
       <img src="SARAA.jpg" />
