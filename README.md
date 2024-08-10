@@ -1,9 +1,11 @@
 ## Hi there 👋
-<div style="display: flex; align-items: left;"> 
-  <div style=" margin-right: 5px;">
-    Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.</div>
- <img src="SARAA.jpg" width=20%>
- </div> 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="margin-right: 10px;">
+    Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.
+  </div>
+  <img src="SARAA.jpg" width="20%" style="margin-left: 10px;">
+</div>
+
 <!--
 **Penorkaa/Penorkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
