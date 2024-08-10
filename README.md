@@ -1,8 +1,8 @@
 ## Hi there 👋
-<div align= left> 
-  <div width = 40% >Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.</div>
-<div width = 30%> <img src="SARAA.jpg" width=40% position=right> </div>
- </div> 
+<p align= left> 
+  <span style="vertical-align: middle; margin-left: 10px;">Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.</span>
+ <img src="SARAA.jpg" width=30% position=right>
+ </p> 
 <!--
 **Penorkaa/Penorkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
