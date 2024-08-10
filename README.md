@@ -5,7 +5,7 @@
       Welcome to my GitHub profile! I'm a passionate Software Developer with a love for machine learning, web development, and game development. My journey in tech has been fueled by curiosity and a drive to build, learn, and share.
       <h2> 🚀 About me </h2>
      <h4 color="violet"> Programming Languages and Technologies : </h4>
-     <img src="html.png" width="30px"/> <img src="css.png" width="30px"/> <img src="js.png" width="30px"/> <img src="php.png" width="30px"/> <img src="sql.png" width="30px"/> <img src="c#.png" width="30px"/> <img src="react.png" width="30px"/> 
+     <img src="html.png" width="50px"/> <img src="css.png" width="50px"/> <img src="js.png" width="50px"/> <img src="php.png" width="50px"/> <img src="sql.png" width="50px"/> <img src="csharp.png" width="50px"/> <img src="react.png" width="50px"/> 
     </td>
     <td style="padding-left: 10px;" width="35%" >
       <img src="SARAA.jpg" />
