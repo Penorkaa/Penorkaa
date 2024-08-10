@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="SARAA.jpg">
+<img src="SARAA.jpg" height=50 width=50>
 <!--
 **Penorkaa/Penorkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
