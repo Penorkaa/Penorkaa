@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="SARAA.jpg" width=200 position=right>
+<div align= right> <img src="SARAA.jpg" width=200 position=right> </div> 
 <!--
 **Penorkaa/Penorkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
